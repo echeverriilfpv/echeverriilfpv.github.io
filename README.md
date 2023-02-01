@@ -16,17 +16,20 @@ widht="100"
 height="200">
         <p>CHAPITRE 3: LE WEB</p>
 
-        <p>CHAPITRE 4:LES RÉSEAUX SOCIAUX</p>
-<img src="https://www.apacom.fr/wp-content/uploads/2019/05/reseaux-sociaux-agence.jpg"/
+        <p>CHAPITRE 4:LES RÉSEAUX 
+		SOCIAUX</p>
+<img src="https://lesjeudisdunumerique.files.wordpress.com/2017/07/rc3a9seaux-sociaux-bien-choisir.jpg"/
      widht="100"
      height="200">
 		
-        <p>CHAPITRE 5:LE TRAITEMENT DE DONNÉES</p>
+        <p>CHAPITRE 5:LE TRAITEMENT
+		DE DONNÉES</p>
 <img src="https://donnees-rgpd.fr/wp-content/uploads/2019/12/a-quoi-sert-registre-traitements.jpg"/
      widht="100"
      height="200">
 		
-        <p>CHAPITRE 6:LA PHOTOGRAPHIE NUMÉRIQUE</p>
+        <p>CHAPITRE 6:LA PHOTOGRAPHIE 
+		NUMÉRIQUE</p>
 <img src="https://www.lhommetendance.fr/wp-content/uploads/2017/10/La-photographie-num%C3%A9rique-615x438.jpg"/
      widht="100"
     height="200">
