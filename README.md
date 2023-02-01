@@ -16,37 +16,39 @@ widht="100"
 height="200">
         <p>CHAPITRE 3: LE WEB</p>
 
-        <p>CHAPITRE 4:LES RÉSEAUX 
+<p>CHAPITRE 4:LES RÉSEAUX 
 		SOCIAUX</p>
 <img src="https://lesjeudisdunumerique.files.wordpress.com/2017/07/rc3a9seaux-sociaux-bien-choisir.jpg"/
      widht="100"
-     height="200">
-		
-        <p>CHAPITRE 5:LE TRAITEMENT
+     height="200">			
+		     
+ <p>CHAPITRE 5:LE TRAITEMENT
 		DE DONNÉES</p>
 <img src="https://donnees-rgpd.fr/wp-content/uploads/2019/12/a-quoi-sert-registre-traitements.jpg"/
      widht="100"
-     height="200">
-		
-        <p>CHAPITRE 6:LA PHOTOGRAPHIE 
+     height="200">		
+        
+<p>CHAPITRE 6:LA PHOTOGRAPHIE 
 		NUMÉRIQUE</p>
 <img src="https://www.lhommetendance.fr/wp-content/uploads/2017/10/La-photographie-num%C3%A9rique-615x438.jpg"/
      widht="100"
     height="200">
 		
-        <p>CHAPITRE 7:LA GÉOLOCALISATION</p>
+   <p>CHAPITRE 7:LA GÉOLOCALISATION</p>
 <img src="https://www.hubone.fr/data/2021/03/hubone-1617194109-700x500.png"/
      widht="100"
      height="200">
 		
-        <p>CHAPITRE 8:LES OBJETS CONNETÉS</p>
+ <p>CHAPITRE 8:LES OBJETS CONNETÉS</p>
 <img src="https://hominance.com/wp-content/uploads/2020/04/shutterstock_1039128847-1-1024x784.jpg"/
-     widht="100"height="200">
+     widht="100"
+     height="200">
 		
-        <h2>projets</h2>
+ <h2>projets</h2>
         <p>1.MA PREMIÈRE PAGE WEB</p>
+       
+<p>2. PAGE WEB DE SNT</p>
 
-        <p>2. PAGE WEB DE SNT</p>
 
-        </body>
-</html> 
+	
+</html>         
