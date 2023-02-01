@@ -38,8 +38,7 @@ height="200">
 		
         <p>CHAPITRE 8:LES OBJETS CONNETÉS</p>
 <img src="https://hominance.com/wp-content/uploads/2020/04/shutterstock_1039128847-1-1024x784.jpg"/
-     widht="100"
-     height="200">
+     widht="100"height="200">
 		
         <h2>projets</h2>
         <p>1.MA PREMIÈRE PAGE WEB</p>
