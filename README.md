@@ -19,12 +19,14 @@ height="200">
 <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2012/10/4688-historia-web.jpg"/
      widht="100"
      height="200"/>
+     <a href="https://github.com/echeverriilfpv/echeverriilfpv.github.io/blob/main/LES%20RE%CC%81SEAUX%20SOCIAUX.jpeg"</a>
 
 <p>CHAPITRE 4:LES RÉSEAUX 
 		SOCIAUX</p>
 <img src="https://lesjeudisdunumerique.files.wordpress.com/2017/07/rc3a9seaux-sociaux-bien-choisir.jpg"/
      widht="100"
-     height="200"/>			
+     height="200"/>
+     <a href=""</a>
 		     
  <p>CHAPITRE 5:LE TRAITEMENT
 		DE DONNÉES</p>
