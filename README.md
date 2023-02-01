@@ -11,10 +11,13 @@
 widht="100"
 height="200">
         <p>CHAPITRE 2: INTERNET</p>
-<img src="https://f.hubspotusercontent20.net/hubfs/5115875/01%20Servicios%20de%20internet_%2030%20caracteri%CC%81sticas%20para%20contratar%20el%20mejor%20copia.png"/
+<img src="https://www.servnet.mx/hs-fs/hubfs/Imagenes_art_ms_octubre2021/02%20%C2%BFQue%CC%81%20son%20los%20servicios%20de%20internet___.png?width=900&name=02%20%C2%BFQue%CC%81%20son%20los%20servicios%20de%20internet___.png"/
 widht="100"
 height="200">
         <p>CHAPITRE 3: LE WEB</p>
+<img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2012/10/4688-historia-web.jpg"/
+     widht="100"
+     height="200">
 
 <p>CHAPITRE 4:LES RÉSEAUX 
 		SOCIAUX</p>
