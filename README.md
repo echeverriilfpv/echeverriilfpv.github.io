@@ -1,16 +1,16 @@
 # echeverriilfpv.github.io
 <html> 
-	<head>
-		<meta charset="utf-8" />
-                <h1>SNT</h1>
-        </head>
-        <body>
+   <head>
+	<meta charset="utf-8" />
+        <h1>SNT</h1>
+   </head>
+    <body>
         <h2>Cours et activités</h2>
         <p>CHAPITRE 1: PYTHON</p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/
 widht="100"
 height="200"/>
-<a href="https://github.com/echeverriilfpv/echeverriilfpv.github.io/blob/main/Python"</a>
+<a href=""</a>
         <p>CHAPITRE 2: INTERNET</p>
 <img src="https://www.servnet.mx/hs-fs/hubfs/Imagenes_art_ms_octubre2021/02%20%C2%BFQue%CC%81%20son%20los%20servicios%20de%20internet___.png?width=900&name=02%20%C2%BFQue%CC%81%20son%20los%20servicios%20de%20internet___.png"/
 widht="100"
@@ -54,7 +54,7 @@ height="200">
         <p>1.MA PREMIÈRE PAGE WEB</p>
        
 <p>2. PAGE WEB DE SNT</p>
-
+</html>  
 
 	
-</html>         
+       
