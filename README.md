@@ -36,7 +36,7 @@ height="200" />
         
 <p>CHAPITRE 6:LA PHOTOGRAPHIE 
 		NUMÉRIQUE</p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.futura-sciences.com%2Ftech%2Fdossiers%2Ftechnologie-photo-numerique-capteur-image-773%2F&psig=AOvVaw2aIFFd5plumPF-vI9W-cTu&ust=1677193079187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiI-aKdqv0CFQAAAAAdAAAAABAR"/
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.routard.com%2Fdossier-pratique-sur-le-voyage%2Fcid137865-la-photo-numerique-en-voyage.html&psig=AOvVaw2aIFFd5plumPF-vI9W-cTu&ust=1677193079187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiI-aKdqv0CFQAAAAAdAAAAABAe"/
      widht="100"
     height="200" />
 		
