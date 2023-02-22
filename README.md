@@ -36,7 +36,7 @@ height="200" />
         
 <p>CHAPITRE 6:LA PHOTOGRAPHIE 
 		NUMÉRIQUE</p>
-<img src="https://www.lhommetendance.fr/wp-content/uploads/2017/10/La-photographie-num%C3%A9rique-615x438.jpg"/
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.futura-sciences.com%2Ftech%2Fdossiers%2Ftechnologie-photo-numerique-capteur-image-773%2F&psig=AOvVaw2aIFFd5plumPF-vI9W-cTu&ust=1677193079187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiI-aKdqv0CFQAAAAAdAAAAABAR"/
      widht="100"
     height="200" />
 		
